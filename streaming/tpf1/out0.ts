@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10,
+http://w.nasvpn.xyz:8080/live/best/best/13312.ts
